@@ -1,3 +1,3 @@
 # hello-world
-Name: Guanchen Wu
-Major: Computer Engineer
+##### Name: _Guanchen Wu_
+##### Major: _Computer Engineer_
