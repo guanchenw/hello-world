@@ -1,2 +1,3 @@
 # hello-world
-tutorial for SCEL (Sophomore Project)
+Name: Guanchen Wu
+Major: Computer Engineer
